@@ -1,4 +1,4 @@
-# temprature-converter
+# Temprature Converter
 Really basic command tool to convert Celsius to Fahrenheit and vise versa.
 
 
