@@ -11,7 +11,9 @@ There are 2 ```.cpp``` files that you must compile using g++
 ```g++ f2c.cpp -o f2c```
 
 Move the executables to ```/usr/local/bin``` (Mac and I think Linux... 🤷🏽🤔💭)
-- ```mv c2f /usr/local/bin```
-- ```mv f2c /usr/local/bin```
+^Mac users must use sudo, Linux depends, and Windows no idea...^
+
+- ```sudo mv c2f /usr/local/bin```
+- ```sudo mv f2c /usr/local/bin```
 
 Restart Terminal 👍🏽
